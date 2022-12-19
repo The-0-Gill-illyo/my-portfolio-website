@@ -1,3 +1,6 @@
+//page imports
+
+// Other imports
 import React from 'react'
 
 const About = () => {
