@@ -1,6 +1,7 @@
 //Page Imports
 import Navbar from '../components/Navbar';
 import HeroImg from "../components/HeroImg";
+import Footer from "../components/Footer";
 
 //Other Imports
 import React from 'react';
@@ -10,6 +11,7 @@ const Home = () => {
     <div>
       <Navbar />
       <HeroImg />
+      <Footer />
     </div>
   )
 }
