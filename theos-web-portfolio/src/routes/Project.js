@@ -1,11 +1,22 @@
-//page imports
+//Page Imports
+import Navbar from '../components/Navbar';
+import Footer from "../components/Footer";
+import HeroImg2 from '../components/HeroImg2';
+import PricingCard from '../components/PricingCard';
+import Work from '../components/Work';
 
 // Other imports
 import React from 'react'
 
 const Project = () => {
   return (
-    <div>Project</div>
+    <div>
+      <Navbar />
+      <HeroImg2 heading="PROJECTS." text="Some of my most recent work!"/>
+      <Work />
+      <PricingCard />
+      <Footer />
+    </div>
   )
 }
 
