@@ -1,10 +1,11 @@
 //Page Imports
-import Navbar from '../components/Navbar';
+import AboutContent from '../components/AboutContent';
 import Footer from "../components/Footer";
+import HeroImg2 from '../components/HeroImg2';
+import Navbar from '../components/Navbar';
 
 // Other imports
 import React from 'react'
-import HeroImg2 from '../components/HeroImg2';
 
 const About = () => {
   return (
@@ -26,10 +27,12 @@ const About = () => {
                     inspiration. Reflecting back, it may have been the repetivness of these jobs, 
                     the predictability, and the constant feeling like I could either be called into 
                     work or fired at any moment; the value I was bringing to these companies were off-set
-                    by the value of new-cheaper labor, no matter the cost of training." />
-      <Footer />
-    </div>
-  )
-}
+                    by the value of new-cheaper labor, no matter the cost of training." 
+                    />
+                  <AboutContent />
+                <Footer/>
+              </div>
+            )
+          }
 
-export default About
+        export default About
