@@ -7,7 +7,7 @@
 
 .hero-img ::before {
     content: "";
-    background: url("https://images.unsplash.com/photo-1507537417841-81e85feb9bd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80");
+    background: url("https://images.unsplash.com/photo-1569781921023-984af475809c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80");
     background-size: cover;
     background-position: center top;
     height: 100%;
