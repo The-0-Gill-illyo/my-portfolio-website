@@ -1,6 +1,6 @@
 //Page Imports
 import "./HeroImgStyles.css";
-import HomeImage from "../assests/BlackManWomanDevelopers.jpg";
+import TheoHomePortfilioPic from "../assests/TheoHomePortfilioPic.jpg";
 
 //Other Imports
 import React from 'react'
@@ -9,7 +9,7 @@ import { Link } from "react-router-dom";
 const HeroImg = () => {
   return <div className="hero">
     <div className="mask">
-    <img className="intro-img" src={HomeImage} alt="HomeImage" />
+    <img className="intro-img" src={TheoHomePortfilioPic} alt="HomeImage" />
     </div>
     <div className="content">
       <p>Hi I'm Theo.</p>

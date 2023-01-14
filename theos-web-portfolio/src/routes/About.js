@@ -11,23 +11,23 @@ const About = () => {
   return (
     <div>
       <Navbar />
-      <HeroImg2 heading="ABOUT." text="I am a friendly Front-End Web Developer! Hi there, thanks for checking out my site! Howard is my name, but I've gone 
-                    by my middle nickname Theo since I was born. I am a new React Web Developer 
-                    graduating from DevCodeCamp in October 2022. Naturally I am a curious person,
-                    with many intrest ranging from art, coaching, mentoring, music, sports and science.
-                    Before and after graduating high school I watched and listened to my friends 
-                    complianing about how expensive college was, the pressure of 'going to a good 
-                    college and getting a good paying career' and more. Having an entrepreneural 
-                    spirite and knowing how importantance higher-education, I had an internal battle
-                    for years, asking 'if was better to go back to school or learn on the job'? I would 
-                    eventually try job-hopping, college, trade-school, working to be a franchise owner,
-                    multi-level marketing, being a 10-99 employee, and more. Before transitioning into a 
-                    tech career I analyzed my 'job juggling'; although my choices fufilled my neeed to give
-                    back and make a difference within the company, I still struggling to find direction and 
-                    inspiration. Reflecting back, it may have been the repetivness of these jobs, 
-                    the predictability, and the constant feeling like I could either be called into 
-                    work or fired at any moment; the value I was bringing to these companies were off-set
-                    by the value of new-cheaper labor, no matter the cost of training." 
+      <HeroImg2 heading="ABOUT." text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Facilisi etiam dignissim diam quis. Id aliquet lectus
+      proin nibh nisl condimentum id venenatis a. Neque aliquam vestibulum morbi blandit cursus risus at ultrices.
+      Facilisi morbi tempus iaculis urna. Vitae sapien pellentesque habitant morbi tristique senectus et netus. 
+      Mus mauris vitae ultricies leo integer malesuada nunc vel. Diam maecenas sed enim ut sem viverra aliquet eget
+      sit. Adipiscing diam donec adipiscing tristique risus nec. Diam in arcu cursus euismod quis. Sed enim ut sem
+      viverra aliquet eget. Sit amet mattis vulputate enim nulla. Nisi quis eleifend quam adipiscing. At volutpat diam
+      ut venenatis. Etiam non quam lacus suspendisse faucibus interdum posuere lorem. In pellentesque massa placerat duis.
+      Morbi quis commodo odio aenean sed adipiscing.Id volutpat lacus laoreet non curabitur. Urna neque viverra justo nec.
+      Purus sit amet volutpat consequat mauris.
+      
+      Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt. Dui nunc mattis enim ut tellus elementum sagittis. 
+      Id ornare arcu odio ut sem nulla pharetra. Ipsum a arcu cursus vitae congue mauris. Posuere urna nec tincidunt praesent
+      semper feugiat nibh sed. Nulla at volutpat diam ut. Lobortis elementum nibh tellus molestie nunc non. Magna etiam tempor
+      orci eu lobortis. Ornare arcu dui vivamus arcu. Senectus et netus et malesuada. Ut etiam sit amet nisl purus in mollis nunc.
+      Rhoncus mattis rhoncus urna neque. Faucibus ornare suspendisse sed nisi lacus. Mi tempus imperdiet nulla malesuada pellentesque.
+      Dictum sit amet justo donec enim diam. Gravida cum sociis natoque penatibus et magnis dis parturient montes." 
                     />
                   <AboutContent />
                 <Footer/>

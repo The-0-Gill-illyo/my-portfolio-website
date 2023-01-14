@@ -10,19 +10,14 @@ const Footer = () => {
     <div className="footer">
         <div className="footer-container">
             <div className="left">
-                <div className="location">
-                    <FaHome size={20} style={{color: "#fff", marginRight: "2rem"}}/>
-                </div>
+            <div className="location">
+                <FaHome size={20} style={{color: "#fff", marginRight: "2rem"}}/>
                 <div>
-                    <p>
-                        Greensboro
-                    </p>
-                    <p>
-                        North Carolina
-                    </p>
+                    <p>Greensboro</p>
+                    <p>North Carolina</p>
                 </div>
-                </div>
-                <div className="phone">
+            </div>
+            <div className="phone">
                     <h4>
                         <FaPhone size={20} style={{color: "#fff", marginRight: "2rem"}}/>
                         +1 (510) 401 - 4096
@@ -34,22 +29,20 @@ const Footer = () => {
                         howard.t.gill.3@gmail.com
                     </h4>
                 </div>
-                </div>
+            </div>
                 <div className="right">
-                <h4>
-                    About the Developer
-                </h4>
-                <p>
-                malesuada nunc vel risus commodo viverra maecenas accumsan lacus vel
-                </p>
+                    <h4>About the Developer</h4>
+                    <p>malesuada nunc vel risus commodo viverra maecenas accumsan lacus vel</p>
                     <div className="social">
                     <FaFacebook size={30} style={{color: "#fff", marginRight: "1rem"}}/>
                     <FaTwitter size={30} style={{color: "#fff", marginRight: "1rem"}}/>
                     <FaLinkedin size={30} style={{color: "#fff", marginRight: "1rem"}}/>
-            </div>
+                </div>
+            </div>  
         </div>
     </div>
   )
 }
 
 export default Footer
+
