@@ -1,6 +1,7 @@
 //Page Imports
-import Navbar from '../components/Navbar';
+import ContactForm from '../components/ContactForm';
 import Footer from "../components/Footer";
+import Navbar from '../components/Navbar';
 
 // Other imports
 import React from 'react'
@@ -11,6 +12,7 @@ const Contact = () => {
     <div>
       <Navbar />
       <HeroImg2 heading="CONTACT." text="I'm happy to answer any questions or concerns!" />
+      <ContactForm />
       <Footer />
     </div>
   )
